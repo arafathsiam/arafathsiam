@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Arafat Hossain Siam 👋
 
-<!--
-**arafathsiam/arafathsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student with a growing interest in software development and technology.  
+Currently building foundational skills and exploring open-source projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+- 🎓 Undergraduate student
+- 💻 Learning software development fundamentals
+- 🌱 Interested in problem solving and technology-driven solutions
+- 🤝 Open to learning and collaboration
+
+
+### 🛠️ Skills (Learning & Practicing)
+- Git & GitHub
+- HTML & CSS (basic)
+
+
+### 🎯 Current Goals
+- Strengthen programming fundamentals
+- Build small, clean projects
+- Contribute to open-source in the future
+
+
+### 📫 Contact
+- Email: arafat.siam.h@gmail.com
+
+
